@@ -1,7 +1,7 @@
 <h1 align="center">veganFood.</h1>
 <p>🚀 Site educacional.</p>
 <p>OBS: neste projeto aprendi como selecionar tags de outras formas, a centralizar o conteúdo e estilos especificos como o das aspas verdadeira.
-<h4>Status do projeto: Concluido...</h4>
+<h4>Status do projeto: Concluido.......</h4>
 
 <h1>Link para acessar: https://gabriel-eustaquio.github.io/veganFood/</h1>
 

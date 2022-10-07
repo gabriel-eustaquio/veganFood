@@ -11,6 +11,6 @@
 <p>Figma</p>
 
 <h1>Autor: </h1>
-<p>Gabriel Eustaquio</p>
+<p>Gabriel Eustaquio.</p>
 
 <img src="./imagens/vegan.PNG">
